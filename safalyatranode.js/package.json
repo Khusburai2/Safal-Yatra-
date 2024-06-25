@@ -1,0 +1,26 @@
+{
+  "name": "safalyatranode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user.js",
+  "scripts": {
+    "start": "node user.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.9.11",
+    "nodemon": "^3.0.3",
+    "otp-generator": "^4.0.1",
+    "secretkey": "^0.0.1"
+  }
+}
